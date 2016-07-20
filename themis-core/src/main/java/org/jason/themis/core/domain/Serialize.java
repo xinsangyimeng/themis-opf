@@ -1,4 +1,4 @@
-package org.jason.themis.domain;
+package org.jason.themis.core.domain;
 
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;

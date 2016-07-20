@@ -1,6 +1,6 @@
-package org.jason.themis.domain.monitor;
+package org.jason.themis.core.domain.monitor;
 
-import org.jason.themis.domain.Serialize;
+import org.jason.themis.core.domain.Serialize;
 
 /**
  * Created by Jason.Xia on 16/7/19.

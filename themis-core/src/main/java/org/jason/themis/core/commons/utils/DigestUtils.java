@@ -1,4 +1,4 @@
-package org.jason.themis.commons.utils;
+package org.jason.themis.core.commons.utils;
 
 /**
  * Created by Jason.Xia on 16/7/19.

@@ -1,4 +1,4 @@
-package org.jason.themis.domain.monitor;
+package org.jason.themis.core.domain.monitor;
 
 import java.util.Map;
 

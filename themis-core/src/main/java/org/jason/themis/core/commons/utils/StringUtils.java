@@ -1,4 +1,4 @@
-package org.jason.themis.commons.utils;
+package org.jason.themis.core.commons.utils;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

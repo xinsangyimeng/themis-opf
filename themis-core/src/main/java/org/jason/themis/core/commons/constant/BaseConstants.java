@@ -1,4 +1,4 @@
-package org.jason.themis.commons.constant;
+package org.jason.themis.core.commons.constant;
 
 
 import java.nio.charset.Charset;
